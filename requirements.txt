@@ -1,0 +1,14 @@
+feedparser
+requests
+python-dotenv
+faster-whisper
+ffmpeg-python
+numpy
+Pillow
+pysubs2
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+moviepy
+opencv-python
